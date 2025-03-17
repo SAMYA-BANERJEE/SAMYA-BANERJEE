@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python and it's GUI interfaces like Tkinter and making many projects on it.
 - 💞️ I’m looking to collaborate on new data analytics projects.
 - 📫 How to reach me --- banerjeesamya631@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
 <!---
